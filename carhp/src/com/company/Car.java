@@ -34,7 +34,7 @@ public class Car {
 
 
     void showAttr(){
-        System.out.println("Car info");
+        System.out.println("^^^^^^^^^^^^^^^^Car info^^^^^^^^^^^^^^^^^^");
         System.out.println(".....................................");
         System.out.println("Brand : " + brand);
         System.out.println("Color : " + color);
